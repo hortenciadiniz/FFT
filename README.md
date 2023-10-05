@@ -22,6 +22,16 @@
 
 8. A plotagem foi limitada para mostrar apenas os primeiros 0.004 segundos (4 períodos) do sinal.
 
-9. Por fim, eu fiz a IFFT - Inverse Fast Fourier Transform - para saber se o sinal reconstruído a partir da frequência gerava o sinal de inicio.
+9. Por fim, fiz a IFFT - Inverse Fast Fourier Transform - para saber se o sinal reconstruído a partir da frequência gerava o sinal de inicio.
+
+# Exemplo de resultado
+
+com um sinal x(t) de entrada descrito por:
+
+$$x(t) = \sin(2 \pi 1000 t) + 0.6 \cdot \sin(2 \pi 2000 t)$$
+
+o resultado da operação de FFT é
+
+![Resultado da FFT do sinal x(t)](./FFT.png "FFT Result")
 
 **Nota:** O código ainda requer testes para outros sinais de entrada.
