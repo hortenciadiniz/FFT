@@ -3,7 +3,7 @@
 - Federal University of Campina Grande
 - Hortencia Diniz Dultra e Silva - 05/10/23
 
-É uma atividade que consiste na implementação da Transformada Rápida de Fourier(FFT) por decimação no Tempo, utilizando Python e o Colaboratory para executar o código.
+É uma atividade que consiste na implementação da Transformada Rápida de Fourier (FFT) por decimação no Tempo, utilizando Python e o Colaboratory para executar o código.
 
 # Build e Execução
 1. As bibliotecas 'numpy' e 'matplotlib.pyplot' para realizar cálculos e plotagem, respectivamente;
