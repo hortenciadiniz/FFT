@@ -48,6 +48,13 @@ O gráfico que relaciona o tempo em relação ao tamanho da FFT é:
 ![Resultado da FFT do sinal x(t)](./FFT_TAMANHO.png "FFT Result")
 
 
+Aqui está o gráfico que relaciona o tempo em relação ao tamanho da DFT:
+**DFT e FFT têm mesmo tamanho**
+
+
+![Resultado da FFT do sinal x(t)](./DFT_TAMANHO.png "FFT Result")
+
+
 **Nota:** O código ainda requer testes para outros sinais de entrada.
 
 **Livro de apoio: Rychard G. Lyons, Understanding Digital
