@@ -36,4 +36,6 @@ o resultado da operação de FFT é
 
 ![Resultado da FFT do sinal x(t)](./FFT.png "FFT Result")
 
+![Resultado da FFT do sinal x(t)](./FFT_TAMANHO.png "FFT Result")
+
 **Nota:** O código ainda requer testes para outros sinais de entrada.
