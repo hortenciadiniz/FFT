@@ -49,6 +49,7 @@ O gráfico que relaciona o tempo em relação ao tamanho da FFT é:
 
 
 Aqui está o gráfico que relaciona o tempo em relação ao tamanho da DFT:
+
 **DFT e FFT têm mesmo tamanho**
 
 
