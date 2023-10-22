@@ -32,14 +32,17 @@ com um sinal x(t) de entrada descrito por:
 $$x(t) = \sin(2 \pi 1000 t) + 0.6 \cdot \sin(2 \pi 2000 t)$$
 
 
-![Resultado da FFT do sinal x(t)](./sinal_original_entrada.png "FFT Result")
+![Resultado da FFT do sinal x(t)](./FFT_INPUT.png "FFT Result")
 
 
 O resultado da operação de FFT é mostrado a seguir e, como esperado, a transformada de cada seno são dois impulsos, cada uma na sua respectiva frequência e amplitude pré-determinadas.
 
 
+![Resultado da FFT do sinal x(t)](./FFT_FREQUENCY.png "FFT Result")
 
-![Resultado da FFT do sinal x(t)](./FFT.png "FFT Result")
+![Resultado da FFT do sinal x(t)](./FFT_PHASE.png "FFT Result")
+
+![Resultado da FFT do sinal x(t)](./FFT_RECOVERY.png "FFT Result")
 
 
 O gráfico que relaciona o tempo em relação ao tamanho da FFT é:
