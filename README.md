@@ -49,6 +49,7 @@ O gráfico que relaciona o tempo em relação ao tempo da FFT é:
 
 
 **Nota:** O código ainda requer testes para outros sinais de entrada.
+
 **Livro de apoio: Rychard G. Lyons, Understanding Digital
 Signal Processing, Third Edition, Chapter Three, The Discrete
 Fourier Transform**
