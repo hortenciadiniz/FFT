@@ -16,7 +16,7 @@
 
 5. Foi criado um vetor de tempo t usando 'np.arange' que varia de 0 a 1 segundo com uma taxa de amostragem de 1/fs. Isso cria um vetor de tempo com pontos igualmente espaçados.
 
-6. Foram definidas as frequências f1 e f2 como 1KHz e 2KHz, respectivamente, que são as frequências das duas senoides que compõem o sinal de entrada.
+6. Foram definidas as frequências f1 e f2 como 1KHz e 2KHz, respectivamente, que são as frequências das duas senoides que compõem o sinal de entrada (este exemplo foi o mesmo utilizado para a DFT, retirado no livro de apoio).
 
 7. Foi calculado o vetor de frequência 'frequencies' correspondente à FFT usando a função np.fft.fftfreq. Isso nos fornece um vetor de frequência que corresponde aos coeficientes da FFT.
 
