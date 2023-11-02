@@ -8,9 +8,9 @@
 # Build e Execução
 1. As bibliotecas 'numpy' e 'matplotlib.pyplot' para realizar cálculos e plotagem, respectivamente;
 
-2. Foi feito um teste para saber se o numero digitado estava em potencia de dois, caso contrario, use o método "Zero Pad";
+2. Foi feito um teste para saber se o numero digitado estava em potência de dois, caso contrario, use o método "Zero Pad";
 
-3. Dois arrays são criados e preenchidos com sequencias pares e impares do sinal
+3. Dois arrays são criados e preenchidos com sequências pares e impares do sinal
 
 4. A frequência de amostragem "fs" foi definida como 8KHz, que é a taxa de amostragem do sinal;
 
@@ -22,7 +22,9 @@
 
 8. A plotagem foi limitada para mostrar apenas os primeiros 0.004 segundos (4 períodos) do sinal.
 
-9. Por fim, fiz a IFFT - Inverse Fast Fourier Transform - para saber se o sinal reconstruído a partir da frequência gerava o sinal de inicio.
+9. Foi feita a IFFT - Inverse Fast Fourier Transform - para saber se o sinal reconstruído a partir da frequência gerava o sinal de inicio.
+
+10. Por fim, comparei os gráficos que relacionam o tamanho da DFT e da FFT com o seu tempo de execução, claramente a FFT foi significativamente mais rápida.
 
 # Exemplo de resultado
 
